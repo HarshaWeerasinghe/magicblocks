@@ -1,3 +1,6 @@
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/3-1024x576.jpg?raw=true
+
+
 * To create the Magicblocks.io platform, first you need to add your Magicblocks.io device to your Magicblocks Developer Account. Do it according the following video.
 
 
